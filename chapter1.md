@@ -6,7 +6,7 @@
 
 - 安装依赖库
     
-    `yum install autoconf autoconf autoconf-archive automake ncurses-devel curl-devel erlang-asn1 erlang-erts erlang-eunit erlang-os_mon erlang-xmerl help2man js-devel libicu-devel libtool perl-Test-Harness`
+    `yum install autoconf autoconf autoconf-archive automake ncurses-devel curl-devel erlang-asn1 erlang-erts erlang-eunit erlang-os_mon erlang-xmerl help2man js-devel libicu-devel libtool perl-Test-Harness openssl-devel unixODBC-devel`
 
 - 升级Python支版本
     
@@ -27,4 +27,5 @@
     # ./configure
     # make && make install
     ```
+    
     
