@@ -16,7 +16,8 @@
     
     - 下载地址：http://www.erlang.org/download/otp_src_R15B01.tar.gz
     - 版本需要在R15B01以上
-    
+ 
+   
 2. 执行以下命令安装：
     `# tar -xvf otp_src_R14B01.tar.gz` 
     
