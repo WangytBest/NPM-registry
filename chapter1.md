@@ -13,6 +13,9 @@
 # 安装Erlang
 
 1. 下载Erlang库
+    ```
+    # wget http://erlang.org/download/otp_src_R15B01.tar.gz 
+    ```
 
     - 下载地址：http://www.erlang.org/download/otp_src_R15B01.tar.gz
     - 版本需要在R15B01以上
