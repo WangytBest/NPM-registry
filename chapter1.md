@@ -24,7 +24,6 @@
     # wget http://erlang.org/download/otp_src_R15B01.tar.gz 
     ```
 
-
 2. 解压安装：
 
     ```shell
