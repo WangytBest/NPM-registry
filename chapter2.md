@@ -31,7 +31,7 @@
     # erl
     ```
     
-# 安装MozillaSpidMonkey
+# 安装`MozillaSpidMonkey`
 
 > 1. 下载地址：[MozillaSpidMonkey](http://ftp.mozilla.org/pub/mozilla.org/js/mozjs17.0.0.tar.gz)
 > 2. 代码名称：` mozjs17.0.0.tar.gz`
