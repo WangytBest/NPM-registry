@@ -1,7 +1,7 @@
 # 安装CouchDB数据库
 ## 安装`Erlang库`
 
-> 1. 下载地址：[Erlang下载地址](http://www.erlang.org/download/otp_src_R15B01.tar.gz)
+> 1. 下载地址：[Erlang下载](http://www.erlang.org/download/otp_src_R15B01.tar.gz)
 > 2. 版本需要在`R15B01`以上
 > 3. 从源码编译安装Erlang,有两个库或工具是必须的：
     - 完整的`GCC编译环境`
