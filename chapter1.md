@@ -10,8 +10,8 @@
 
 - 升级Python支版本(6.7及以上)
     
-# 一、安装CouchDB数据库
-## 1. 安装Erlang
+
+# 安装Erlang
 
 > 1. 下载地址：[Erlang下载地址](http://www.erlang.org/download/otp_src_R15B01.tar.gz)
 > 2. 版本需要在`R15B01`以上
