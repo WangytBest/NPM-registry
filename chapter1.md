@@ -23,9 +23,7 @@
     ```
     # wget http://erlang.org/download/otp_src_R15B01.tar.gz 
     ```
-
 2. 解压安装：
-
     ```shell
     # tar -xvf otp_src_R14B01.tar.gz
     # cd otp_src_R14B01
@@ -33,7 +31,6 @@
     # make && make install
     ```
 3. 添加环境变量
-    
     ```
     # vim /etc/profile
     添加：
