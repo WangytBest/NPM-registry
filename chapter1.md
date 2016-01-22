@@ -98,6 +98,6 @@ bind_address = 192.168.0.128
 >* 查看状态：`# /etc/init.d/couchdb status`
 >* 停止：`#/etc/init.d/couchdb stop`
 
-
+# 访问数据库
 
     
