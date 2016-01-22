@@ -44,5 +44,4 @@ delayed_commits = false
 
 ;userconfig /root/.npmrc
 registry = "http://127.0.0.1:5984/registry/_design/app/_rewrite"
-
 ```
