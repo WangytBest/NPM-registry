@@ -7,7 +7,6 @@
     - 完整的`GCC编译环境`
     - `Ncurses开发库`
 
-
 1. 下载`Erlang库`
     ```
     # wget http://erlang.org/download/otp_src_R15B01.tar.gz 
