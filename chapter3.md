@@ -6,7 +6,7 @@
 {“ok”:true}
 ```
 
-## 配置NPM用数据库-`registry`
+## 配置NPM用数据库`registry`
 ```
 # vim /usr/local/etc/couchdb/local.ini
 
