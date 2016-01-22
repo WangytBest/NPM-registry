@@ -9,4 +9,4 @@
     `yum install autoconf autoconf autoconf-archive automake ncurses-devel curl-devel erlang-asn1 erlang-erts erlang-eunit erlang-os_mon erlang-xmerl help2man js-devel libicu-devel libtool perl-Test-Harness openssl-devel unixODBC-devel`
 
 - Python支版本
-> Node不支持Python3.0。主要原因在于GYP项目构建工具采用Python完成开发的，这里建议安装Python2.7，以为node-gpy需要Python 2.7才能正常使用。
+> Node不支持Python3.0。主要原因在于GYP项目构建工具采用Python完成开发的，这里建议安装`Python2.7`，以为`node-gpy`需要`Python 2.7`才能正常使用。
