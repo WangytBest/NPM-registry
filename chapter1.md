@@ -61,5 +61,12 @@
 
 1. 解压安装
 
+    ```shell
+    # yum install gcc glibc-devel make ncurses-devel openssl-devel autoconf -y 
+    # tar -xvf otp_src_R14B01.tar.gz
+    # cd otp_src_R14B01
+    # ./configure
+    # make && make install
+    ```
     
     
