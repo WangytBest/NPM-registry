@@ -11,6 +11,10 @@
 - 升级Python支版本(6.7及以上)
     
 # 安装Erlang
+> 从源码编译安装Erlang。有两个库或工具是必须的：
+* 完整的GCC编译环境
+* Ncurses开发库
+
 
 1. 下载Erlang库
     ```
