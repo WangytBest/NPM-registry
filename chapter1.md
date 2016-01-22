@@ -10,6 +10,7 @@
 
 - 升级Python支版本(6.7及以上)
     
+# 安装CouchDB
 # 安装Erlang
 
 > 1. 下载地址：[Erlang下载地址](http://www.erlang.org/download/otp_src_R15B01.tar.gz)
