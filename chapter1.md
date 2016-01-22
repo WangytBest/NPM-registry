@@ -101,4 +101,7 @@ bind_address = 192.168.0.128
 # 访问数据库
 >[器访问](http://127.0.0.1:5984/_utils)：http://127.0.0.1:5984/_utils
 
+# CouchDB添加用户
+>1. 打开管理画面：`http://x.x.x.x:5984/_utils/ `
+>2. 点击画面右下角的`Fix this`，创建用户。admin/admin
     
