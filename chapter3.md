@@ -45,3 +45,11 @@ delayed_commits = false
 ;userconfig /root/.npmrc
 registry = "http://127.0.0.1:5984/registry/_design/app/_rewrite"
 ```
+
+## 在本地定义.npmrc
+> 如果本地没有.npmrc文件，则在用户目录下touch文件.npmrc
+
+```
+# vim ~/.npmrc
+registry = http://127.0.0.1:5984/registry/_design/scratch/_rewrite
+```
