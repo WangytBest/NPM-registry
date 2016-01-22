@@ -2,7 +2,7 @@
 
 - OS: CentOS7
     
-    如果CentOS系统版本低于6.7，更新系统库 `yum update`
+    >如果CentOS系统版本低于6.7，更新系统库 `yum update`
 
 - 安装依赖库
     
