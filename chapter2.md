@@ -22,7 +22,6 @@
 3. 添加环境变量
     ```
     # vim /etc/profile
-    添加：
     export PATH=$PATH:/usr/local/erlang/bin/
     ```
 4. 测试安装
