@@ -39,7 +39,7 @@ $ npm install testmypublish
 ```
 
 ## 切换NPM仓库
-> 在项目开发过程中，需要在官方仓库和本地仓库切换，我们可以利用bash中alias功能来解决这个问题。在~/.bashrc或者~/.profile文件结尾处添加如下代码：
+> 在项目开发过程中，需要在官方仓库和本地仓库切换，我们可以利用bash中`alias`功能来解决这个问题。在`~/.bashrc`或者`~/.profile`文件结尾处添加如下代码：
 >>`alias lnpm = npm --registry=http://127.0.0.1:5984/registry/_design/scratch/_rewrite`
 
->重启命令行，npm操作的是官方仓库，lnpm操作的是本地仓库，其余参数和命令均相同。
+>重启命令行，`npm`操作的是官方仓库，`lnpm`操作的是本地仓库，其余参数和命令均相同。
