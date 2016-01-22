@@ -76,13 +76,12 @@
     ```
 
 # 配置CouchDB数据库
-
-    ```
-    # chown -R couchdb:couchdb /usr/local/var/lib/couchdb /usr/local/var/log/couchdb /usr/local/var/run/couchdb
-    # ln -sf /usr/local/etc/rc.d/couchdb /etc/init.d/couchdb
-    # chkconfig --add couchdb
-    # chkconfig couchdb on
-    ```
+```shell
+# chown -R couchdb:couchdb /usr/local/var/lib/couchdb /usr/local/var/log/couchdb /usr/local/var/run/couchdb
+# ln -sf /usr/local/etc/rc.d/couchdb /etc/init.d/couchdb
+# chkconfig --add couchdb
+# chkconfig couchdb on
+```
 
 
     
