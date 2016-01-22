@@ -4,8 +4,10 @@
 ```
 $ mkdir testmypublish  
 $ cd testmypublish 
+```
 
 ## 创建package.json文件
+```
 $ vim package.json 
 {  
   "name":    "testmypublish",  
