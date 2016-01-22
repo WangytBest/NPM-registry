@@ -27,3 +27,13 @@ delayed_commits = false
 # rpm -Uvh http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
 # yum install nodejs npm --enablerepo=epel
 ```
+
+## 安装 npm-registry-couchapp
+```
+# git clone git://github.com/npm/npm-registry-couchapp
+# cd npm-registry-couchapp/
+# npm install
+# npm start --npm-registry-couchapp:couch=http://admin:admin@localhost:5984/registry
+# npm run load --npm-registry-couchapp:couch=http://admin:admin@localhost:5984/registry
+# npm copy --npm-registry-couchapp:couch=http://admin:admin@localhost:5984/registry
+```
