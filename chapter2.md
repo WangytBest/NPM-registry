@@ -64,7 +64,7 @@
     [info] [<0.32.0>] Apache CouchDB has started on http://127.0.0.1:5984/
     ```
 
-# 配`置CouchDB数据库`
+# 配置`CouchDB数据库`
 
 ```shell
 # chown -R couchdb:couchdb /usr/local/var/lib/couchdb /usr/local/var/log/couchdb /usr/local/var/run/couchdb
