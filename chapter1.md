@@ -12,17 +12,18 @@
     
 # 安装Erlang
 
-> 从源码编译安装Erlang。有两个库或工具是必须的：
-* 完整的GCC编译环境
-* Ncurses开发库
+> 1. 下载地址：[Erlang下载地址](http://www.erlang.org/download/otp_src_R15B01.tar.gz)
+> 2. 版本需要在R15B01以上
+> 3. 从源码编译安装Erlang。有两个库或工具是必须的：
+    - 完整的GCC编译环境
+    - Ncurses开发库
 
 
 1. 下载Erlang库
     ```
     # wget http://erlang.org/download/otp_src_R15B01.tar.gz 
     ```
-    - 下载地址：[Erlang下载地址](http://www.erlang.org/download/otp_src_R15B01.tar.gz)
-    - 版本需要在R15B01以上
+
 
 2. 解压安装：
 
@@ -40,5 +41,11 @@
     export PATH=$PATH:/usr/local/erlang/bin/
     ```
 4. 测试安装
+    ```
+    # erl
+    ```
+# 安装MozillaSpidMonkey
+
+
     
     
