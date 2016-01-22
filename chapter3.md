@@ -22,6 +22,7 @@ delayed_commits = false
 ## 安装`Git`和`nodejs`
 
 ```
+# yum install git
 # yum install npm
 # rpm --import https://fedoraproject.org/static/0608B895.txt
 # rpm -Uvh http://download-i2.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
