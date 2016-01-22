@@ -19,7 +19,7 @@ secure_rewrites = false
 delayed_commits = false
 ```
 
-## 安装Git和nodejs
+## 安装`Git`和`nodejs`
 
 ```
 # yum install npm
