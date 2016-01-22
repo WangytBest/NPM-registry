@@ -99,5 +99,6 @@ bind_address = 192.168.0.128
 >* 停止：`#/etc/init.d/couchdb stop`
 
 # 访问数据库
+>浏览器访问：http://192.168.0.128:5984/_utils
 
     
