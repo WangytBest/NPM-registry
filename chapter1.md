@@ -25,6 +25,7 @@
     - 版本需要在R15B01以上
 
 2. 解压安装：
+
     ```shell
     # tar -xvf otp_src_R14B01.tar.gz
     # cd otp_src_R14B01
