@@ -15,3 +15,10 @@ $ vim package.json
 } 
 ```
 
+## 添加NPM用户
+```
+$ npm adduser  
+Username: admin 
+Password:   
+Email: (this IS public) admin@chinatelecom.com 
+```
