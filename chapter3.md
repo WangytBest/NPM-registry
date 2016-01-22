@@ -28,7 +28,7 @@ delayed_commits = false
 # yum install nodejs npm --enablerepo=epel
 ```
 
-## 安装 npm-registry-couchapp
+## 安装`npm-registry-couchapp`
 ```
 # git clone git://github.com/npm/npm-registry-couchapp
 # cd npm-registry-couchapp/
