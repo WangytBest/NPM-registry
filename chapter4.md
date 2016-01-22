@@ -30,3 +30,10 @@ $ cd testmypublish
 $ npm publish  
 + testmypublish@0.0.1
 ```
+发布完成
+
+## 客户端测试
+
+```
+$ npm install testmypublish
+```
