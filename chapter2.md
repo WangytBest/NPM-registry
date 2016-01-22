@@ -56,7 +56,7 @@
     ```
 2. 测试安装
     ```
-    #$ couchdb  
+    # couchdb  
     Apache CouchDB 1.2.0 (LogLevel=info) is starting.  
     Apache CouchDB has started. Time to relax.  
     [info] [<0.32.0>] Apache CouchDB has started on http://127.0.0.1:5984/
