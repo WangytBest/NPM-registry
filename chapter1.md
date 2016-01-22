@@ -84,7 +84,7 @@
 # chkconfig couchdb on
 ```
 
-# 
+# 设置IP和端口
 
 
     
