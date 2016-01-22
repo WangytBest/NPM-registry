@@ -37,3 +37,12 @@ delayed_commits = false
 # npm run load --npm-registry-couchapp:couch=http://admin:admin@localhost:5984/registry
 # npm copy --npm-registry-couchapp:couch=http://admin:admin@localhost:5984/registry
 ```
+
+## 查找本地.npmrc文件
+```
+# npm config ls -l
+
+; userconfig /root/.npmrc
+registry = "http://127.0.0.1:5984/registry/_design/app/_rewrite"
+
+```
