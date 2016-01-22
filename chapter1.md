@@ -61,8 +61,9 @@
 
 1. 解压安装
     ```shell
-    # tar -xvf mozjs17.0.0.tar.gz
-    # cd mozjs17.0.0/js/src/
+    #wget http://mirrors.advancedhosters.com/apache/couchdb/source/1.6.0/apache-couchdb-1.6.0.tar.gz  
+    # tar -xvf apache-couchdb-1.6.0  .tar.gz
+    # cd apache-couchdb-1.6.0  
     # ./configure
     # make && make install
     ```
