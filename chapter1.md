@@ -8,4 +8,4 @@
     
     `yum install autoconf autoconf autoconf-archive automake ncurses-devel curl-devel erlang-asn1 erlang-erts erlang-eunit erlang-os_mon erlang-xmerl help2man js-devel libicu-devel libtool perl-Test-Harness openssl-devel unixODBC-devel`
 
-- 升级Python支版本(6.7及以上)
+- 升级Python支版本(2.7及以上)
