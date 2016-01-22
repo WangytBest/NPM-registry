@@ -1,5 +1,5 @@
 # 安装CouchDB数据库
-# 安装Erlang
+# 安装`Erlang库`
 
 > 1. 下载地址：[Erlang下载地址](http://www.erlang.org/download/otp_src_R15B01.tar.gz)
 > 2. 版本需要在`R15B01`以上
@@ -8,7 +8,7 @@
     - `Ncurses开发库`
 
 
-1. 下载Erlang库
+1. 下载`Erlang库`
     ```
     # wget http://erlang.org/download/otp_src_R15B01.tar.gz 
     ```
