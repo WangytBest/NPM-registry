@@ -93,6 +93,11 @@ port = 5984
 bind_address = 192.168.0.128
 ```
 
+# 启动与停止
+>* 启动 ：`# /etc/init.d/couchdb start`
+>* 查看状态：`# /etc/init.d/couchdb status`
+>* 停止：`#/etc/init.d/couchdb stop`
+
 
 
     
