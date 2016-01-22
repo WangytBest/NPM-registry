@@ -60,11 +60,9 @@
 >2. 代码名称：`mozjs17.0.0.tar.gz`
 
 1. 解压安装
-
     ```shell
-    # yum install gcc glibc-devel make ncurses-devel openssl-devel autoconf -y 
-    # tar -xvf otp_src_R14B01.tar.gz
-    # cd otp_src_R14B01
+    # tar -xvf mozjs17.0.0.tar.gz
+    # cd mozjs17.0.0/js/src/
     # ./configure
     # make && make install
     ```
