@@ -38,7 +38,7 @@ delayed_commits = false
 # npm copy --npm-registry-couchapp:couch=http://admin:admin@localhost:5984/registry
 ```
 
-## 查找本地.npmrc文件
+## 查找本地`.npmrc`文件
 ```
 # npm config ls -l
 
