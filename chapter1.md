@@ -47,7 +47,13 @@
 > 1. 下载地址：[MozillaSpidMonkey](http://ftp.mozilla.org/pub/mozilla.org/js/mozjs17.0.0.tar.gz)
 > 2. 代码名称：` mozjs17.0.0.tar.gz`
 
-
+1. 解压安装
+```
+# tar -xvf mozjs17.0.0.tar.gz
+# cd mozjs17.0.0/js/src/
+# ./configure
+# make && make install
+```
 
     
     
