@@ -40,9 +40,10 @@
     ```
     # erl
     ```
+    
 # 安装MozillaSpidMonkey
 
-    > 下载地址：[MozillaSpidMonkey](http://ftp.mozilla.org/pub/mozilla.org/js/mozjs17.0.0.tar.gz)
+> 下载地址：[MozillaSpidMonkey](http://ftp.mozilla.org/pub/mozilla.org/js/mozjs17.0.0.tar.gz)
 
 
     
