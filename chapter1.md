@@ -87,7 +87,7 @@
 
 # 设置IP和端口
 ```
-# vi /usr/local/etc/couchdb/local.ini
+# vim /usr/local/etc/couchdb/local.ini
 [httpd]
 port = 5984
 bind_address = 192.168.0.128
