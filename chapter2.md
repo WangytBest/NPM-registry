@@ -1,5 +1,5 @@
 # 安装CouchDB数据库
-# 安装`Erlang库`
+## 安装`Erlang库`
 
 > 1. 下载地址：[Erlang下载地址](http://www.erlang.org/download/otp_src_R15B01.tar.gz)
 > 2. 版本需要在`R15B01`以上
@@ -31,7 +31,7 @@
     # erl
     ```
     
-# 安装`MozillaSpidMonkey`
+## 安装`MozillaSpidMonkey`
 
 > 1. 下载地址：[MozillaSpidMonkey](http://ftp.mozilla.org/pub/mozilla.org/js/mozjs17.0.0.tar.gz)
 > 2. 代码名称：` mozjs17.0.0.tar.gz`
@@ -44,7 +44,7 @@
 # make && make install
 ```
 
-# 安装CouchDB数据库
+## 安装CouchDB数据库
 >1. 下载地址：[CouchDB下载](http://mirror.tcpdiag.net/apache/couchdb/source/1.6.1/apache-couchdb-1.6.1.tar.gz)
 >2. 代码名称：`mozjs17.0.0.tar.gz`
 
@@ -64,7 +64,7 @@
     [info] [<0.32.0>] Apache CouchDB has started on http://127.0.0.1:5984/
     ```
 
-# 配置`CouchDB数据库`
+## 配置`CouchDB数据库`
 
 ```shell
 # chown -R couchdb:couchdb /usr/local/var/lib/couchdb /usr/local/var/log/couchdb /usr/local/var/run/couchdb
@@ -73,7 +73,7 @@
 # chkconfig couchdb on
 ```
 
-# 设置IP和端口
+## 设置IP和端口
 ```
 # vim /usr/local/etc/couchdb/local.ini
 [httpd]
@@ -81,12 +81,12 @@ port = 5984
 bind_address = 192.168.0.128
 ```
 
-# 启动与停止
+## 启动与停止
 >* 启动 ：`# /etc/init.d/couchdb start`
 >* 查看状态：`# /etc/init.d/couchdb status`
 >* 停止：`#/etc/init.d/couchdb stop`
 
-# 访问数据库
+## 访问数据库
 >[浏览器访问](http://127.0.0.1:5984/_utils)：http://127.0.0.1:5984/_utils
 
 # CouchDB添加用户
