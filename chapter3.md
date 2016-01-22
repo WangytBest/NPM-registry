@@ -1,6 +1,8 @@
 # 架设NPM私有服务器
 
 ## 创建数据库`registry`
+> 首先，我们需要调用CouchDB的接口为仓库创建一个数据库，之后所有的模块包文件将作为附件保存在这个数据库中。 
+
 ```
 # curl -X PUT http://admin:admin@127.0.0.1:5984/registry
 {“ok”:true}
