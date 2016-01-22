@@ -22,7 +22,7 @@ Username: admin
 Password:   
 Email: (this IS public) admin@chinatelecom.com 
 ```
-> 添加成功后registry数据库会增加一天记录
+> 添加成功后registry数据库会增加一条记录
 
 ## 发布项目
 ```
