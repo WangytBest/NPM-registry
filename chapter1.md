@@ -23,7 +23,7 @@
     ```
     # wget http://erlang.org/download/otp_src_R15B01.tar.gz 
     ```
-2. 解压安装：
+2. 解压安装
     ```shell
     # yum install gcc glibc-devel make ncurses-devel openssl-devel autoconf -y 
     # tar -xvf otp_src_R14B01.tar.gz
@@ -54,6 +54,12 @@
 # ./configure
 # make && make install
 ```
+
+# 安装CouchDB数据库
+>1. 下载地址：[CouchDB下载](http://mirror.tcpdiag.net/apache/couchdb/source/1.6.1/apache-couchdb-1.6.1.tar.gz)
+>2. 代码名称：`mozjs17.0.0.tar.gz`
+
+1. 解压安装
 
     
     
