@@ -6,7 +6,7 @@ $ mkdir testmypublish
 $ cd testmypublish 
 ```
 
-## 创建package.json文件
+## 创建`package.json`文件
 ```
 $ vim package.json 
 {  
@@ -23,3 +23,10 @@ Password:
 Email: (this IS public) admin@chinatelecom.com 
 ```
 > 添加成功后registry数据库会增加一天记录
+
+## 发布项目
+```
+$ cd testmypublish  
+$ npm publish  
++ testmypublish@0.0.1
+```
